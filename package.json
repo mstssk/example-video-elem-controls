@@ -1,0 +1,23 @@
+{
+  "name": "example-video-elem-controls",
+  "version": "1.0.0",
+  "description": "Example:`controls` attr of <video>",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstssk/example-video-elem-controls.git"
+  },
+  "author": "https://github.com/mstssk/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstssk/example-video-elem-controls/issues"
+  },
+  "homepage": "https://github.com/mstssk/example-video-elem-controls#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
