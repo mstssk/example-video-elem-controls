@@ -4,7 +4,7 @@
   "description": "Example:`controls` attr of <video>",
   "main": "index.js",
   "scripts": {
-    "start": "live-server",
+    "start": "serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mstssk/example-video-elem-controls#readme",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "serve": "^13.0.2"
   }
 }
