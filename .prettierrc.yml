@@ -1,0 +1,5 @@
+overrides:
+  # Prettierを使いつつ、折り返しには余裕を持つ
+  - files: "*.html"
+    options:
+      printWidth: 120
